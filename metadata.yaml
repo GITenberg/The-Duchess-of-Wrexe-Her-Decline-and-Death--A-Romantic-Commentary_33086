@@ -1,0 +1,28 @@
+_repo: The-Duchess-of-Wrexe-Her-Decline-and-Death--A-Romantic-Commentary_33086
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walpole, Hugh
+    alias: Walpole, Sir Hugh
+    birthdate: 1884
+    deathdate: 1941
+    gutenberg_agent_id: '1207'
+    url: http://www.gutenberg.org/2009/agents/1207
+    wikipedia: http://en.wikipedia.org/wiki/Hugh_Walpole
+description: ''
+gutenberg_issued: '2010-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
+title: The Duchess of Wrexe, Her Decline and Death; A Romantic Commentary
+url: http://www.gutenberg.org/ebooks/33086
